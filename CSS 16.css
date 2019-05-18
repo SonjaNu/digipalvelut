@@ -1,0 +1,24 @@
+p {
+	color: black; 
+	font-family: Arial;
+}
+div {
+	
+	border: 25px;
+	border-color: black;
+	border-style: solid;
+	padding: 10px;
+	margin: 10 px;
+}
+
+.header {
+	
+	background-image: url("kukka.jpg");
+	background-position: down;
+	background-size: cover;
+	color: black;
+}
+
+.bold {
+	color: grey;
+}
